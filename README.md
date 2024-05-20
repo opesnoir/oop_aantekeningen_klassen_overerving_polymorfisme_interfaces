@@ -20,10 +20,11 @@ Klassevariabelen: Deze behoren tot de klasse en zijn voor alle objecten gelijk.
 Final Keyword geeft aan dat een waarde na het toekennen van zijn eerste waarde niet meer veranderd kan worden.
 
 Klassendiagram
-+ betekent public
-- betekent private
-# betekent protected
-  Onderstreept betekent constant (final)
+1.  + betekent public
+2.  - betekent private
+3.  # betekent protected
+4.  ALL CAPS betekent final
+5.  Onderstreept betekent static
 
 - Klasse plaats je in de packadge model
 - Launcher plaats je in de packadge controller
