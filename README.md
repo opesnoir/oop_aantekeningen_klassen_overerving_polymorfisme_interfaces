@@ -22,6 +22,7 @@ Final Keyword geeft aan dat een waarde na het toekennen van zijn eerste waarde n
 Klassendiagram
 + betekent public
 - betekent private
+# betekent protected
   Onderstreept betekent constant (final)
 
 - Klasse plaats je in de packadge model
